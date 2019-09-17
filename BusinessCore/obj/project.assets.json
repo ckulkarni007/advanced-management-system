@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\BusinessCore\\BusinessCore.csproj",
+      "projectUniqueName": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\BusinessCore\\BusinessCore.csproj",
       "projectName": "BusinessCore",
-      "projectPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\BusinessCore\\BusinessCore.csproj",
+      "projectPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\BusinessCore\\BusinessCore.csproj",
       "packagesPath": "C:\\Users\\ckulkarni\\.nuget\\packages\\",
-      "outputPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\BusinessCore\\obj\\",
+      "outputPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\BusinessCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\UtilityServices\\UtilityServices.csproj",
+      "projectUniqueName": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\UtilityServices\\UtilityServices.csproj",
       "projectName": "UtilityServices",
-      "projectPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\UtilityServices\\UtilityServices.csproj",
+      "projectPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\UtilityServices\\UtilityServices.csproj",
       "packagesPath": "C:\\Users\\ckulkarni\\.nuget\\packages\\",
-      "outputPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\UtilityServices\\obj\\",
+      "outputPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\UtilityServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

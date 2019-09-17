@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\BusinessContract\\BusinessContract.csproj",
+      "projectUniqueName": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\BusinessContract\\BusinessContract.csproj",
       "projectName": "BusinessContract",
-      "projectPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\BusinessContract\\BusinessContract.csproj",
+      "projectPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\BusinessContract\\BusinessContract.csproj",
       "packagesPath": "C:\\Users\\ckulkarni\\.nuget\\packages\\",
-      "outputPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\BusinessContract\\obj\\",
+      "outputPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\BusinessContract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

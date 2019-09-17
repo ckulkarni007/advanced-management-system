@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\DataRepository\\DataRepository.csproj",
+      "projectUniqueName": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\DataRepository\\DataRepository.csproj",
       "projectName": "DataRepository",
-      "projectPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\DataRepository\\DataRepository.csproj",
+      "projectPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\DataRepository\\DataRepository.csproj",
       "packagesPath": "C:\\Users\\ckulkarni\\.nuget\\packages\\",
-      "outputPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\Project\\DataRepository\\obj\\",
+      "outputPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\DataRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
