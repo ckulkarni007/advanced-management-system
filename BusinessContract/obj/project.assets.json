@@ -25,6 +25,28 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "BusinessCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "TalentRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessCore.dll": {}
+        }
+      },
+      "TalentRepository/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TalentRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TalentRepository.dll": {}
+        }
       }
     }
   },
@@ -168,10 +190,21 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "BusinessCore/1.0.0": {
+      "type": "project",
+      "path": "../BusinessCore/BusinessCore.csproj",
+      "msbuildProject": "../BusinessCore/BusinessCore.csproj"
+    },
+    "TalentRepository/1.0.0": {
+      "type": "project",
+      "path": "../TalentRepository/TalentRepository.csproj",
+      "msbuildProject": "../TalentRepository/TalentRepository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "BusinessCore >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -205,7 +238,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\BusinessCore\\BusinessCore.csproj": {
+              "projectPath": "C:\\Chaitanya\\PERSONAL\\.Net Training\\ManagementSystem\\Project\\BusinessCore\\BusinessCore.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

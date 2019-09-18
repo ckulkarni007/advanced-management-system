@@ -11,4 +11,8 @@
     <Folder Include="BusinessEntities\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessCore\BusinessCore.csproj" />
+  </ItemGroup>
+
 </Project>
